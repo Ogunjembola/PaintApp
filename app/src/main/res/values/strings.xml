@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Paint App</string>
+    <string name="canvasContentDescription">My Paint App is a simple drawing app
+    Drag your finger to draw. Rotate the phone to clear</string>
+</resources>
